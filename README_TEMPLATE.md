@@ -1,6 +1,3 @@
-
-<img src="https://raw.github.com/15Galan/42_project-readmes/blob/master/banners/cursus/projects/ft_printf-light.png">
-
 *This project has been created as part of the 42 curriculum by divillan*
 
 <div align="center">
@@ -9,10 +6,13 @@
 
 ### A 42 School Project
 
+<img src="https://raw.githubusercontent.com/divillan/42_README/main/assets/banners/42-dark.png">
+
 <p>
   <img src="https://img.shields.io/badge/42-Common_Core-000000?style=for-the-badge&logo=42&logoColor=white">
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/Norminette-OK-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-orange?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Norminette-KO-red?style=for-the-badge">
 </p>
 
 **A short and concise description of the project.**
@@ -27,7 +27,64 @@
 
 ---
 
-## 📖 About
+## 📌 Development Progress
+
+> Current status: **In progress**
+
+### 📊 Project Progress
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROGRESS-5%25-red?style=flat-square&labelColor=25252B">
+<img src="https://img.shields.io/badge/TASKS-1%2F20-25252B?style=flat-square">
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FF9800?style=flat-square">
+
+<br><br>
+
+`█░░░░░░░░░░░░░░░░░░░` **5%**
+
+</div>
+
+### Task Structure
+
+- ○ → Work Not Started
+- ● → Work In Progress
+- ✓ → Work Finished
+
+### 🧩 Core Requirements
+
+- [○] Requirement 1
+- [○] Requirement 2
+- [○] Requirement 3
+- [○] Requirement 4
+
+### ⚡ Additional Features
+
+- [○] Feature 1
+- [○] Feature 2
+- [○] Feature 3
+
+### 🧪 Testing & Debugging
+
+- [○] Test standard cases
+- [○] Test edge cases
+- [○] Test error handling
+- [○] Check memory leaks
+- [○] Check invalid inputs
+
+### 📦 Final Review
+
+- [○] Norminette
+- [○] Makefile rules
+- [○] Remove unnecessary files
+- [○] Review project structure
+- [○] Final compilation
+- [○] README documentation
+
+---
+
+
+## 📖 Description
 
 PROJECT_NAME is a project developed as part of the 42 Common Core curriculum.
 
